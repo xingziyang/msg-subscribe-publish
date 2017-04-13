@@ -11,4 +11,4 @@
 如果想要测试发送邮件操作如下：
 *1-1：更改邮箱的配置文件
 *1-2：消息订阅者去掉本行代码注释即可
-//				bailBiz.mailSend(mailParam);
+//bailBiz.mailSend(mailParam);
